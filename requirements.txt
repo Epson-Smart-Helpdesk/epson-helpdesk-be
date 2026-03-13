@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+alembic
+psycopg2-binary
+pgvector
+pydantic-settings
+python-dotenv
+llama-index
+openai
+loguru
